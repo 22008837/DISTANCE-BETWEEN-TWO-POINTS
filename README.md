@@ -14,6 +14,7 @@ Print the coding to get the answer.
 ### Step 5: 
 End the program
 ### PROGRAM:
+```
 #Program to find the distance between two points.
 #Developed by: Prabha.C
 #RegisterNumber: 22008837
@@ -22,6 +23,7 @@ l1 = [4,2]
 l2 = [10,6]
 distance = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
+```
 
   
 
