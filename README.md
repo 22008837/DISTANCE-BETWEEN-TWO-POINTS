@@ -27,7 +27,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![output](/Screenshot_20221228_084246.png)
+![output](/Screenshot%202023-01-14%20203835.png)
 
 ### RESULT:
 Thus the program to find the distance of two points is successfully executed
